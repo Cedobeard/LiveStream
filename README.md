@@ -13,3 +13,6 @@ TransparentChromeOnTop.ahk uses AutoHotKey to run the code.
     Open the script with notepad.exe, and delete the two "IfWinExist" lines. Save, then drag the script on the .exe again.
     
 I'm excited this seems to work. Please message me for requests, but no promises.
+Send email to humanpriori@gmail.com with the word "github" somewhere in the message.
+Thanks,
+-Cedo
