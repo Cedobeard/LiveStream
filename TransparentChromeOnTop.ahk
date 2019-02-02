@@ -6,7 +6,7 @@ winset alwaysontop, on, ahk_exe chrome.exe
 winset transparent, 150, ahk_exe chrome.exe
 return 
 
-#ifwinactive
+#ifwinexist
 
 ^+2::
 winset alwaysontop, off, ahk_exe chrome.exe
